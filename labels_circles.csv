@@ -1,0 +1,19 @@
+ClassId,Name
+0,Speed limit (20km/h)
+1,Speed limit (30km/h)
+2,Speed limit (50km/h)
+3,Speed limit (60km/h)
+4,Speed limit (70km/h)
+5,Speed limit (80km/h)
+6,Speed limit (100km/h)
+7,Speed limit (120km/h)
+8,No vehicles
+9,No entry
+10,Turn right ahead
+11,Turn left ahead
+12,Ahead only
+13,Go straight or right
+14,Go straight or left
+15,Keep right
+16,Keep left
+17,Roundabout mandatory
